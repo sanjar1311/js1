@@ -4,6 +4,7 @@
 
 body {
   margin: 0;
+  transition: background-color .5s ease;
 }
 
 .wrapper {
